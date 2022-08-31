@@ -1,0 +1,11 @@
+C:\Users\pablo\Área de Trabalho\Ferramentas Visuais de Desenvolvimento de Software\Exercicios C#\FormsExercicio\FormsExercicio\bin\Debug\FormsExercicio.exe.config
+C:\Users\pablo\Área de Trabalho\Ferramentas Visuais de Desenvolvimento de Software\Exercicios C#\FormsExercicio\FormsExercicio\bin\Debug\FormsExercicio.exe
+C:\Users\pablo\Área de Trabalho\Ferramentas Visuais de Desenvolvimento de Software\Exercicios C#\FormsExercicio\FormsExercicio\bin\Debug\FormsExercicio.pdb
+C:\Users\pablo\Área de Trabalho\Ferramentas Visuais de Desenvolvimento de Software\Exercicios C#\FormsExercicio\FormsExercicio\obj\Debug\FormsExercicio.csproj.AssemblyReference.cache
+C:\Users\pablo\Área de Trabalho\Ferramentas Visuais de Desenvolvimento de Software\Exercicios C#\FormsExercicio\FormsExercicio\obj\Debug\FormsExercicio.csproj.SuggestedBindingRedirects.cache
+C:\Users\pablo\Área de Trabalho\Ferramentas Visuais de Desenvolvimento de Software\Exercicios C#\FormsExercicio\FormsExercicio\obj\Debug\FormsExercicio.Properties.Resources.resources
+C:\Users\pablo\Área de Trabalho\Ferramentas Visuais de Desenvolvimento de Software\Exercicios C#\FormsExercicio\FormsExercicio\obj\Debug\FormsExercicio.csproj.GenerateResource.cache
+C:\Users\pablo\Área de Trabalho\Ferramentas Visuais de Desenvolvimento de Software\Exercicios C#\FormsExercicio\FormsExercicio\obj\Debug\FormsExercicio.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Área de Trabalho\Ferramentas Visuais de Desenvolvimento de Software\Exercicios C#\FormsExercicio\FormsExercicio\obj\Debug\FormsExercicio.exe
+C:\Users\pablo\Área de Trabalho\Ferramentas Visuais de Desenvolvimento de Software\Exercicios C#\FormsExercicio\FormsExercicio\obj\Debug\FormsExercicio.pdb
+C:\Users\pablo\Área de Trabalho\Ferramentas Visuais de Desenvolvimento de Software\Exercicios C#\FormsExercicio\FormsExercicio\obj\Debug\FormsExercicio.FrmPrincipal.resources
